@@ -1,0 +1,7 @@
+gym==0.15.6
+mujoco-py==1.50.1.68
+tensorflow==1.13.1
+numpy
+pyyaml
+termcolor
+json_tricks
