@@ -14,4 +14,4 @@ However, one can run SAC to re-train expert policies (see [scripts/run_sac.sh](s
 
 ## Usage
 
-The folder of [scripts](scripts) provides all demo running scripts to test algorithms like GAIL, BC, DAgger, FEM, GTAL, and imitating-environments algorithms. After running experiments, one can use [result_plotter.py](result_plotter.py) to visualize results.
+The folder of [scripts](scripts) provides all demo running scripts to test algorithms like GAIL, BC, DAgger, FEM, GTAL, and imitating-environments algorithms.
