@@ -1,6 +1,6 @@
 # Error Bounds of Imitating Policies and Environments
 
-This is the repository hosting the code used for the paper Error Bounds of Imitating Policies and Environments. The code contains the implementation of the BC, GAIL, DAgger, FEM, MWAL, MBRL_BC, MBRL_GAIL.
+This is the repository hosting the code used for our NeurIPS 2020 paper: Error Bounds of Imitating Policies and Environments. The code contains the implementation of the BC, GAIL, DAgger, FEM, MWAL, MBRL_BC, MBRL_GAIL.
 
 ## Requirements
 
